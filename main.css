@@ -1,0 +1,39 @@
+h1 {
+    font-family: Aladin;
+}
+
+h4 {
+    font-family: Abril Fatface;
+}
+.facts-border {
+    border-color: #000000;
+    border-style:none;
+    padding: 6px 6px 6px 6px;
+    margin: 16px 16px 16px 16px;
+}
+
+.facts-font {
+    color:darkslateblue;
+    font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+    font-size: 18px;
+}
+
+.smaller-image {
+    height: 500px;
+    width: 400px;
+    border-color:  #b7aebf;
+    border-width: 15px;
+    border-style: solid;
+    box-shadow: 5px 5px 5px 5px
+}
+
+.quote-text {
+    padding: 20px 10px 20px 10px;
+    margin: 20px 10px 20px 10px;
+    color: #f7f7f7;
+    font-family: Abril Fatface, Arial Black;
+    font-size: 25px;
+    background-color: darkred;
+    border-style: groove;
+        
+}
